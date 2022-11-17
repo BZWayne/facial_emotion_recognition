@@ -6,3 +6,5 @@ This is the Machine Learning task for the emotion recognition made using Resnet.
 *0: 'Angry', 1: 'Disgust', 2: 'Fear', 3: 'Happy', 4: 'Sad', 5: 'Surprise', 6: 'Neutral'*
 
 Using OpenCV, it was possible to demonstrate the position of the face with accuracy of its emotion. 
+
+![result](https://github.com/BZWayne/facial_emotion_recognition/blob/main/images/images.png)
