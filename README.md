@@ -1,4 +1,4 @@
-# Emotion Recognition based on the Face
+# Emotion Recognition
 **Author**: *Bauyrzhan Zhakanov*, [bauyrzhan.zhakanov@gmail.com](bauyrzhan.zhakanov@gmail.com)
 
 ## Description
